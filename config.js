@@ -15,14 +15,14 @@ global.APIKeys = {
 }
 
 //═══════[ EDIT OWNER & SEGALA MACAM ]════════\\
-global.owner = ['6289652948525'] //Ganti Nomer Kamu
-global.pemilik = ['6289652948525'] //Ganti Nomer Kamu
-global.premium = ['3584460008017','6289652948525'] // Add Nomer Kamu Gan, Contoh ['3584460008017','6289652948525','noLu']
-global.pengguna = 'Created By Elpezet24' //Ganti Nama Kamu
-global.botnma = 'XpeeBOT WhatsApp - MD' //Nama Bot Mu
-global.ownernma = 'Elpezet24' //Nama Owner
-global.packname = 'XpeeBOT EMDEH'
-global.author = '\n\n\n\n\n\n\n\n\n🥰🥰😘😘😠😠😱😱🤨🤨\n\n\n\n\n\n\n\n\n\nMade By Elpezet24\n\n\n\n\n'
+global.owner = ['6285817964582'] //Ganti Nomer Kamu
+global.pemilik = ['6285817964582'] //Ganti Nomer Kamu
+global.premium = ['6285817964582','6289652948525'] // Add Nomer Kamu Gan, Contoh ['3584460008017','6289652948525','noLu']
+global.pengguna = 'Zkhii' //Ganti Nama Kamu
+global.botnma = 'AmOwner - Md' //Nama Bot Mu
+global.ownernma = 'Zkhii!' //Nama Owner
+global.packname = 'AmOwner!'
+global.author = '\n\n\n\n\n\n\n\n\n🥰🥰😘😘😠😠😱😱🤨🤨\n\n\n\n\n\n\n\n\n\nMade By Zkhii!\n\n\n\n\n'
 global.sessionName = 'session' //ini nama session, bisa lu ganti apa mau mu
 global.prefa = ['#','!','/',''] //ini prefix, kalau mau yg lain tinggal tambah aja
 global.sp = '⭔' //ini yg di menu
